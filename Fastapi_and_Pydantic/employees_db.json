@@ -1,0 +1,22 @@
+{
+    "emp_101": {
+        "name": "avinash giri",
+        "department": "Engg",
+        "role": "backend dev",
+        "salary": 70000
+    },
+
+    "emp_102": {
+        "name": "alex murphy",
+        "department": "security",
+        "role": "security analyst",
+        "salary": 89000
+    },
+
+    "emp_103": {
+        "name": "eliza conner",
+        "department": "data science",
+        "role": "ml engg",
+        "salary": 85000   
+    }
+}
