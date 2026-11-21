@@ -1,5 +1,5 @@
 .venv
-
+Fastapi_and_Pydantic/__pycache__
 .env
 
 .ipynb_checkpoints
